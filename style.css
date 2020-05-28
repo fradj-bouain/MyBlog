@@ -275,35 +275,35 @@ to {
     -webkit-animation: Animate-CSS 5s;
     -moz-animation: Animate-CSS 5s;
     -o-animation: Animate-CSS 5s;
-    width: 70%;
+    width: 50%;
     height: 50px;
     position: absolute;
-    background-color: #ac4979;
+    background-color: #ffc100;
 }
 @keyframes Animate-CSS {
     from {
     width: 10px;
 }
 to {
-    width: 70%}
+    width: 50%}
 }@-webkit-keyframes Animate-CSS {
     from {
     width: 10px;
 }
 to {
-    width: 70%}
+    width: 50%}
 }@-moz-keyframes Animate-CSS {
     from {
     width: 10px;
 }
 to {
-    width: 70%}
+    width: 50%}
 }@-o-keyframes Animate-CSS {
     from {
     width: 10px;
 }
 to {
-    width: 70%}
+    width: 50%}
 }#Skill-android {
     animation: Animate-android 5s;
     -webkit-animation: Animate-android 5s;
